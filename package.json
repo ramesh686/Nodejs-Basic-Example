@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-basic-example",
+  "version": "1.0.0",
+  "description": "Basic of Node and Git",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramesh686/Nodejs-Basic-Example.git"
+  },
+  "keywords": [
+    "Node",
+    "Git",
+    "Command"
+  ],
+  "author": "ramesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramesh686/Nodejs-Basic-Example/issues"
+  },
+  "homepage": "https://github.com/ramesh686/Nodejs-Basic-Example#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
