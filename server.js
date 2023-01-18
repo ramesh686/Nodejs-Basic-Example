@@ -7,6 +7,9 @@ app.get('/',(req, res) => {
    res.send("Hello world!");
 });
 
+console.log("--------");
+console.log("-------");
+
 console.log("hello ramesh");
 
 http.createServer(app).listen(3000,() => {
